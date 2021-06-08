@@ -14,3 +14,6 @@ document.getElementById("iAm").innerHTML = languages[locale].iAm;
 document.getElementById("myName").innerHTML = languages[locale].myName;
 document.getElementById("myJobs").innerHTML = languages[locale].myJobs;
 document.getElementById("contactBtn").innerHTML = languages[locale].contactBtn;
+document.getElementById("aboutMeParagraph").innerHTML = languages[locale].aboutMeParagraph;
+document.getElementById("jobTitle").innerHTML = languages[locale].jobTitle;
+document.getElementById("jobSubtitle").innerHTML = languages[locale].jobSubtitle;

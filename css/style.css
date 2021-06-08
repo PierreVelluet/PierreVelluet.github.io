@@ -1605,3 +1605,8 @@ a:focus {
         padding: 0 5px;
     }
 }
+
+.portfolioA {
+    color: #EF233C;
+    font-weight: 500;
+}
