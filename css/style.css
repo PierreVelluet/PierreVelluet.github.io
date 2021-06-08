@@ -504,6 +504,8 @@ a:focus {
 .about .about-img {
     position: relative;
     height: 100%;
+    margin-top: 75px;
+    padding-bottom: 75px;
 }
 
 .about .about-img img {

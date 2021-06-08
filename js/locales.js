@@ -22,7 +22,13 @@ const languages = {
         //////////////////////////////
         aboutMeParagraph: "A propos de moi",
         jobTitle: "Développeur web [FullStack]",
-        jobSubtitle: "Dîplomé dans le social et la diététique, je suis maintenant développeur web fullstack depuis 2018. J'ai commencé le développement, par passion, en autodidacte. J'ai par la suite décidé d'en faire mon métier, et j'ai donc intégré un parcours plus classique, entre école et stages.<br><br> J'ai eu plusieurs emplois en tant que développeur web, notamment dans le domaine de la location de voitures chez Zotcar, où j'ai développé une application de gestion d'un parc automobile / locations, dans une équipe de 4 développeurs.<br><br> Aujourd'hui, je travail chez Willow, sur l'île de La Réunion (Océan Indien). Nous développons un logiciel de caisse automatique très performant, ainsi qu'une application de gestion interne.<br><br> Je suis également freelance depuis début 2021. J'ai de nombreux projets à mon actif, que j'effectue sur mon temps libre. Vous pourrez en visualiser plusieurs dans la partie <a id='portfolioTab' href='#portfolio' class='portfolioA'>Portfolio</a>.<br><br> D'un point de vue plue technique, je suis spécialisé dans la stack Javascript, mais je suis actuellement en poste sur les technologies Microsoft."
+        jobSubtitle: "Dîplomé dans le social et la diététique, je suis maintenant développeur web fullstack depuis 2018. J'ai commencé le développement, par passion, en autodidacte. J'ai par la suite décidé d'en faire mon métier, et j'ai donc intégré un parcours plus classique, entre école et stages.<br><br> J'ai eu plusieurs emplois en tant que développeur web, notamment dans le domaine de la location de voitures chez Zotcar, où j'ai développé une application de gestion d'un parc automobile / locations, dans une équipe de 4 développeurs.<br><br> Aujourd'hui, je travail chez Willow, sur l'île de La Réunion (Océan Indien). Nous développons un logiciel de caisse automatique très performant, ainsi qu'une application de gestion interne.<br><br> Je suis également freelance depuis début 2021. J'ai de nombreux projets à mon actif, que j'effectue sur mon temps libre. Vous pourrez en visualiser plusieurs dans la partie <a id='portfolioTab' href='#portfolio' class='portfolioA'>Portfolio</a>.<br><br> D'un point de vue plue technique, je suis spécialisé dans la stack Javascript, mais je suis actuellement en poste sur les technologies Microsoft.",
+        learnMoreBtn: "En savoir plus",
+        linkedin: "https://www.linkedin.com/in/pierre-velluet/",
+        whatDoIdo: "Je fais quoi ?",
+        skillsTitle: "Mes compétences",
+        tools: "Outils"
+
 
 
     },
