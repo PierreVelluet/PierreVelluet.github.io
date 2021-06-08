@@ -22,3 +22,24 @@ document.getElementById("learnMoreBtn").href = languages[locale].linkedin;
 document.getElementById("whatDoIdo").innerHTML = languages[locale].whatDoIdo;
 document.getElementById("skillsTitle").innerHTML = languages[locale].skillsTitle;
 document.getElementById("tools").innerHTML = languages[locale].tools;
+document.getElementById("myCvTitle").innerHTML = languages[locale].myCvTitle;
+document.getElementById("myCvSubtitle").innerHTML = languages[locale].myCvSubtitle;
+document.getElementById("willowJob").innerHTML = languages[locale].jobTitle;
+document.getElementById("zotCarJob").innerHTML = languages[locale].jobTitle;
+document.getElementById("freelanceJob").innerHTML = languages[locale].jobTitle;
+document.getElementById("willowDate").innerHTML = languages[locale].willowDate;
+document.getElementById("zotcarDate").innerHTML = languages[locale].zotcarDate;
+document.getElementById("freelanceDate").innerHTML = languages[locale].freelanceDate;
+document.getElementById("willowText").innerHTML = languages[locale].willowText;
+document.getElementById("zotcarText").innerHTML = languages[locale].zotcarText;
+document.getElementById("freelanceText").innerHTML = languages[locale].freelanceText;
+document.getElementById("freelanceTitle").innerHTML = languages[locale].freelanceTitle;
+document.getElementById("schoolTitle").innerHTML = languages[locale].schoolTitle;
+document.getElementById("schoolText").innerHTML = languages[locale].schoolText;
+document.getElementById("selfmadeTitle").innerHTML = languages[locale].selfmadeTitle;
+document.getElementById("selfmadeText").innerHTML = languages[locale].selfmadeText;
+document.getElementById("otherLifeTitle").innerHTML = languages[locale].otherLifeTitle;
+document.getElementById("otherLifeText").innerHTML = languages[locale].otherLifeText;
+
+
+
