@@ -168,6 +168,20 @@ a:focus {
     background: #f8f9fa;
 }
 
+.lfnp {
+    font-size: 25px;
+    color: white;
+    margin: 0;
+    line-height: 0px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    transition: .5s;
+}
+
+.lfnp:hover {
+    color: black;
+}
+
 @media (min-width: 992px) {
     .navbar {
         position: absolute;
@@ -261,12 +275,14 @@ a:focus {
 .hero .hero-image {
     position: relative;
     text-align: right;
-    padding-right: 75px;
+    padding-right: 175px;
+    padding-bottom: 40px;
 }
 
 .hero .hero-image img {
-    max-width: 80%;
-    max-height: 80%;
+    max-width: 40%;
+    max-height: 40%;
+    border-radius: 50%;
 }
 
 .hero .hero-content {
