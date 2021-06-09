@@ -42,7 +42,9 @@ const languages = {
         selfmadeTitle: "Développement web autodidacte",
         selfmadeText: "J'ai commencé le développement web en autodidacte, pour le plaisir de développer des jeux, dont vous pourez apprécier certains dans mon <a id='portfolioTab' href='#portfolio' class='portfolioA'>Portfolio</a>.<br> L'expérience m'a desuite plu, et je me suis retrouvé passionné, jusqu'à franchir le pas du retour à l'école, pour une reconversion professionnelle complète!",
         otherLifeTitle: "Une ancienne vie loin du code, dans le social et la diététique",
-        otherLifeText: "J'ai fais des études dans le social et la diététique, qui m'ont beaucoup apportées. Si je n'étais pas tombé dans la code-tion magique, j'aurais très probablement continué mes études en diététique, et je me serais rapproché de la recherche."
+        otherLifeText: "J'ai fais des études dans le social et la diététique, qui m'ont beaucoup apportées. Si je n'étais pas tombé dans la code-tion magique, j'aurais très probablement continué mes études en diététique, et je me serais rapproché de la recherche.",
+        projectTitle: "Mes réalisations",
+        projectSubtitle: "Portfolio"
 
 
 

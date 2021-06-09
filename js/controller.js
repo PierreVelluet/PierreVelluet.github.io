@@ -40,6 +40,9 @@ document.getElementById("selfmadeTitle").innerHTML = languages[locale].selfmadeT
 document.getElementById("selfmadeText").innerHTML = languages[locale].selfmadeText;
 document.getElementById("otherLifeTitle").innerHTML = languages[locale].otherLifeTitle;
 document.getElementById("otherLifeText").innerHTML = languages[locale].otherLifeText;
+document.getElementById("projectTitle").innerHTML = languages[locale].projectTitle;
+document.getElementById("projectSubtitle").innerHTML = languages[locale].projectSubtitle;
+
 
 
 
