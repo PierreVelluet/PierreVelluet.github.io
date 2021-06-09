@@ -22,8 +22,7 @@ a {
 }
 
 a:hover,
-a:active,
-a:focus {
+a:active,{
     color: #EF233C;
     outline: none;
     text-decoration: none;
@@ -1481,7 +1480,6 @@ a:focus {
 /*******************************/
 .footer {
     position: relative;
-    margin-top: 45px;
     background: #EF233C;
 }
 
@@ -1614,4 +1612,16 @@ a:focus {
 
 .experienceTexts {
     text-align: justify;
+}
+
+.contactItem {
+    color: white;
+}
+
+.contactLinks {
+    color: white;
+    text-decoration: underline;
+}
+.contactLinks:hover {
+    color: black;
 }

@@ -10,10 +10,11 @@ document.getElementById("serviceTab").innerHTML = languages[locale].serviceTab;
 document.getElementById("experienceTab").innerHTML = languages[locale].experienceTab;
 document.getElementById("portfolioTab").innerHTML = languages[locale].portfolioTab;
 document.getElementById("contactTab").innerHTML = languages[locale].contactTab;
+document.getElementById("ageInfo").innerHTML = languages[locale].ageInfo;
+document.getElementById("languagesInfo").innerHTML = languages[locale].languagesInfo;
 document.getElementById("iAm").innerHTML = languages[locale].iAm;
 document.getElementById("myName").innerHTML = languages[locale].myName;
 document.getElementById("myJobs").innerHTML = languages[locale].myJobs;
-document.getElementById("contactBtn").innerHTML = languages[locale].contactBtn;
 document.getElementById("aboutMeParagraph").innerHTML = languages[locale].aboutMeParagraph;
 document.getElementById("jobTitle").innerHTML = languages[locale].jobTitle;
 document.getElementById("jobSubtitle").innerHTML = languages[locale].jobSubtitle;
@@ -42,6 +43,13 @@ document.getElementById("otherLifeTitle").innerHTML = languages[locale].otherLif
 document.getElementById("otherLifeText").innerHTML = languages[locale].otherLifeText;
 document.getElementById("projectTitle").innerHTML = languages[locale].projectTitle;
 document.getElementById("projectSubtitle").innerHTML = languages[locale].projectSubtitle;
+// document.getElementById("namePh").placeholder = languages[locale].namePh;
+// document.getElementById("emailPh").placeholder = languages[locale].emailPh;
+// document.getElementById("subjectPh").placeholder = languages[locale].subjectPh;
+// document.getElementById("sendMailbtn").innerHTML = languages[locale].sendMailbtn;
+
+
+
 
 
 

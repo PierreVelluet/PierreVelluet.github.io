@@ -44,7 +44,13 @@ const languages = {
         otherLifeTitle: "Une ancienne vie loin du code, dans le social et la diététique",
         otherLifeText: "J'ai fais des études dans le social et la diététique, qui m'ont beaucoup apportées. Si je n'étais pas tombé dans la code-tion magique, j'aurais très probablement continué mes études en diététique, et je me serais rapproché de la recherche.",
         projectTitle: "Mes réalisations",
-        projectSubtitle: "Portfolio"
+        projectSubtitle: "Portfolio",
+        namePh: "Votre nom",
+        emailPh: "Votre email",
+        subjectPh: "A quel sujet ?",
+        sendMailbtn: "Envoyer le message",
+        languagesInfo: "Français, Anglais",
+        ageInfo: "29 ans",
 
 
 
