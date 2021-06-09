@@ -47,6 +47,7 @@ document.getElementById("projectSubtitle").innerHTML = languages[locale].project
 // document.getElementById("emailPh").placeholder = languages[locale].emailPh;
 // document.getElementById("subjectPh").placeholder = languages[locale].subjectPh;
 // document.getElementById("sendMailbtn").innerHTML = languages[locale].sendMailbtn;
+//test
 
 
 
