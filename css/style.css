@@ -21,12 +21,6 @@ a {
     transition: .3s;
 }
 
-a:hover,
-a:active,{
-    color: #EF233C;
-    outline: none;
-    text-decoration: none;
-}
 
 .btn:focus,
 .form-control:focus {
@@ -43,20 +37,20 @@ a:active,{
     font-weight: 600;
     letter-spacing: 1px;
     color: #ffffff;
-    background: #EF233C;
+    background: #162B32;
     border: 2px solid transparent;
     border-radius: 0;
-    box-shadow: inset 0 0 0 50px #EF233C;
+    box-shadow: inset 0 0 0 50px #162B32;
     transition: ease-out 0.3s;
     -webkit-transition: ease-out 0.3s;
     -moz-transition: ease-out 0.3s;
 }
 
 .btn:hover {
-    color: #EF233C;
+    color: #162B32;
     background: transparent;
-    box-shadow: inset 0 0 0 0 #EF233C;
-    border-color: #EF233C;
+    box-shadow: inset 0 0 0 0 #162B32;
+    border-color: #162B32;
 }
 
 #loader {
@@ -90,7 +84,7 @@ a:active,{
     width: 45px;
     height: 45px;
     border: 5px solid #dddddd;
-    border-top: 5px solid #EF233C;
+    border-top: 5px solid #162B32;
     border-radius: 50%;
     -webkit-animation: spin 2s linear infinite;
     animation: spin 2s linear infinite;
@@ -178,7 +172,7 @@ a:active,{
 }
 
 .lfnp:hover {
-    color: black;
+    color: #FF4838;
 }
 
 @media (min-width: 992px) {
@@ -201,7 +195,7 @@ a:active,{
     }
     
     .navbar.nav-sticky .navbar-brand {
-        color: #EF233C;
+        color: #162B32;
     }
 
     .navbar-light .navbar-nav .nav-link,
@@ -219,12 +213,12 @@ a:active,{
 
     .navbar-light .navbar-nav .nav-link:hover,
     .navbar-light .navbar-nav .nav-link.active {
-        color: #111111;
+        color: #FF4838;
     }
     
     .navbar-light.nav-sticky .navbar-nav .nav-link:hover,
     .navbar-light.nav-sticky .navbar-nav .nav-link.active {
-        color: #EF233C;
+        color: #FF4838;
     }
 }
 
@@ -235,7 +229,7 @@ a:active,{
     }
     
     .navbar .navbar-brand {
-        color: #EF233C;
+        color: #162B32;
     }
     
     .navbar .navbar-nav {
@@ -261,7 +255,7 @@ a:active,{
     margin-bottom: 45px;
     padding: 120px 0 0 0;
     overflow: hidden;
-    background: linear-gradient(rgba(239, 35, 60, .95), rgba(839, 95, 90, .85));
+    background: linear-gradient(rgba(22, 43, 50, 1), rgba(22, 43, 50, 0.8));
     /* background: purple; */
     background-position: center;
     background-repeat: no-repeat;
@@ -313,7 +307,7 @@ a:active,{
     display: inline-block;
     margin: 0;
     height: 35px;
-    color: #ffffff;
+    color: #FF4838;
     font-size: 35px;
     font-weight: 600;
 }
@@ -326,11 +320,11 @@ a:active,{
     font-size: 35px;
     font-weight: 300;
     color: #ffffff;
-}gi
+}
 
 .hero .hero-btn .btn {
     margin-top: 35px;
-    color: #EF233C;
+    color: #162B32;
     background: #ffffff;
     box-shadow: inset 0 0 0 50px #ffffff;
 }
@@ -455,7 +449,7 @@ a:active,{
     top: 11px;
     right: 0;
     left: -30px;
-    background: #EF233C;
+    background: #FF4838;
     z-index: -1;
 }
 
@@ -466,7 +460,7 @@ a:active,{
     height: 3px;
     top: 11px;
     left: 3px;
-    background: #EF233C;
+    background: #FF4838;
     z-index: 1;
 }
 
@@ -550,7 +544,7 @@ a:active,{
 
 .about .progress .progress-bar {
     width: 0px;
-    background: #EF233C;
+    background: #162B32;
     border-radius: 10px;
     transition: 2s;
 }
@@ -583,7 +577,7 @@ a:active,{
     content: '';
     position: absolute;
     width: 2px;
-    background: #EF233C;
+    background: #162B32;
     top: 0;
     bottom: 0;
     left: 50%;
@@ -615,7 +609,7 @@ a:active,{
     top: 48px;
     right: -8px;
     background: #ffffff;
-    border: 2px solid #EF233C;
+    border: 2px solid #FF4838;
     border-radius: 16px;
     z-index: 1;
 }
@@ -647,7 +641,7 @@ a:active,{
     top: 44px;
     font-size: 16px;
     font-weight: 600;
-    color: #EF233C;
+    color: #162B32;
     text-transform: uppercase;
     letter-spacing: 1px;
     z-index: 1;
@@ -761,7 +755,7 @@ a:active,{
 }
 
 .service .service-item:hover {
-    box-shadow: inset 800px 0 0 0 #EF233C;
+    box-shadow: inset 800px 0 0 0 #162B32;
 }
 
 .service .service-icon {
@@ -771,14 +765,14 @@ a:active,{
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid #EF233C;
+    border: 1px solid #162B32;
     background: #ffffff;
 }
 
 .service .service-icon i {
     position: relative;
     font-size: 60px;
-    color: #EF233C;
+    color: #FF4838;
     transition: .3s;
 }
 
@@ -846,10 +840,10 @@ a:active,{
     font-size: 14px;
     font-weight: 600;
     color: #ffffff;
-    background: #EF233C;
+    background: #162B32;
     border: 2px solid transparent;
     border-radius: 0;
-    box-shadow: inset 0 0 0 50px #EF233C;
+    box-shadow: inset 0 0 0 50px #162B32;
     transition: ease-out 0.3s;
     -webkit-transition: ease-out 0.3s;
     -moz-transition: ease-out 0.3s;
@@ -857,10 +851,10 @@ a:active,{
 
 .portfolio #portfolio-filter li:hover,
 .portfolio #portfolio-filter li.filter-active {
-    color: #EF233C;
+    color: #162B32;
     background: transparent;
-    box-shadow: inset 0 0 0 0 #EF233C;
-    border-color: #EF233C;
+    box-shadow: inset 0 0 0 0 #162B32;
+    border-color: #162B32;
 }
 
 .portfolio .portfolio-item {
@@ -922,10 +916,10 @@ a:active,{
 }
 
 .portfolio .portfolio-item:hover a.btn {
-    color: #EF233C;
+    color: #162B32;
     background: transparent;
-    box-shadow: inset 0 0 0 0 #EF233C;
-    border-color: #EF233C;
+    box-shadow: inset 0 0 0 0 #162B32;
+    border-color: #162B32;
 }
 
 
@@ -937,7 +931,7 @@ a:active,{
     width: 100%;
     margin: 45px 0;
     padding: 90px 0;
-    background: #EF233C;
+    background: #162B32;
 }
 
 .banner .container {
@@ -974,7 +968,7 @@ a:active,{
 
 .banner .banner-text .btn {
     margin-top: 15px;
-    color: #EF233C;
+    color: #162B32;
     background: #ffffff;
     box-shadow: inset 0 0 0 50px #ffffff;
 }
@@ -1028,7 +1022,7 @@ a:active,{
 }
 
 .price .price-item.featured-item .price-header {
-    color: #EF233C;
+    color: #162B32;
 }
 
 .price .price-title h2 {
@@ -1058,7 +1052,7 @@ a:active,{
 }
 
 .price .price-item.featured-item h2 {
-    color: #EF233C;
+    color: #162B32;
 }
 
 .price .price-body {
@@ -1094,15 +1088,15 @@ a:active,{
 
 .price .price-item.featured-item .price-action .btn {
     color: #ffffff;
-    background: #EF233C;
-    box-shadow: inset 0 0 0 50px #EF233C;
+    background: #162B32;
+    box-shadow: inset 0 0 0 50px #162B32;
 }
 
 .price .price-item.featured-item .price-action .btn:hover {
-    color: #EF233C;
+    color: #162B32;
     background: transparent;
-    box-shadow: inset 0 0 0 0 #EF233C;
-    border-color: #EF233C;
+    box-shadow: inset 0 0 0 0 #162B32;
+    border-color: #162B32;
 }
 
 
@@ -1145,7 +1139,7 @@ a:active,{
 }
 
 .team .team-text h2 {
-    color: #EF233C;
+    color: #162B32;
     font-size: 18px;
     font-weight: 600;
     margin-bottom: 5px;
@@ -1184,7 +1178,7 @@ a:active,{
 }
 
 .team .team-item:hover {
-    box-shadow: inset 800px 0 0 0 #EF233C;
+    box-shadow: inset 800px 0 0 0 #162B32;
 }
 
 .team .team-item:hover .team-img img {
@@ -1234,7 +1228,7 @@ a:active,{
     position: relative;
     margin: 45px 0;
     padding: 90px 0;
-    background: #EF233C;
+    background: #162B32;
 }
 
 .testimonial .container {
@@ -1286,7 +1280,7 @@ a:active,{
 }
 
 .testimonial .testimonial-text h3 {
-    color: #EF233C;
+    color: #162B32;
     font-size: 18px;
     font-weight: 600;
     margin-bottom: 10px;
@@ -1323,7 +1317,7 @@ a:active,{
 .contact {
     position: relative;
     width: 100%;
-    background: #EF233C;
+    background: #162B32;
 }
 
 .contact .container-fluid {
@@ -1334,7 +1328,7 @@ a:active,{
 .contact .contact-form {
     position: relative;
     padding: 90px 0 90px 45px;
-    background: #EF233C;
+    background: #162B32;
 }
 
 .contact .contact-form input {
@@ -1368,7 +1362,7 @@ a:active,{
 
 .contact .contact-form .btn {
     margin-top: 35px;
-    color: #EF233C;
+    color: #162B32;
     background: #ffffff;
     box-shadow: inset 0 0 0 50px #ffffff;
 }
@@ -1481,7 +1475,7 @@ a:active,{
 /*******************************/
 .footer {
     position: relative;
-    background: linear-gradient(rgba(239, 35, 60, .95), rgba(839, 95, 90, .85));
+    background: linear-gradient(rgba(22, 43, 50, 1), rgba(22, 43, 50, 0.8));
 }
 
 .footer .container-fluid {
@@ -1607,7 +1601,7 @@ a:active,{
 }
 
 .portfolioA {
-    color: #EF233C;
+    color: #162B32;
     font-weight: 500;
 }
 
