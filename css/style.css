@@ -1601,8 +1601,12 @@ a {
 }
 
 .portfolioA {
-    color: #162B32;
+    color: #FF4838;
     font-weight: 500;
+}
+
+.portfolioA:hover {
+    color : red;
 }
 
 .experienceTexts {
